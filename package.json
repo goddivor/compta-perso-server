@@ -1,0 +1,13 @@
+{
+  "name": "compta-perso-sync-api",
+  "version": "1.0.0",
+  "description": "Sync API between compta-perso apps (desktop/mobile) and MongoDB Atlas",
+  "type": "module",
+  "private": true,
+  "engines": {
+    "node": ">=20"
+  },
+  "dependencies": {
+    "mongodb": "^6.10.0"
+  }
+}
